@@ -1,6 +1,6 @@
 {
   "name": "rdev-node",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "node version of rdev",
   "main": "index.js",
   "types": "./index.d.ts",
