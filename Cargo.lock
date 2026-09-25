@@ -509,7 +509,7 @@ dependencies = [
 
 [[package]]
 name = "rdev-node"
-version = "1.0.1"
+version = "1.0.5"
 dependencies = [
  "evdev",
  "napi",
